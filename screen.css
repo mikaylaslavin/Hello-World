@@ -5,7 +5,7 @@ body {
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #424242;
     margin: 0;
-    color: #000000;
+    color: #424242;
 }
 
 main {
@@ -14,7 +14,7 @@ main {
 }
 
 .masthead {
-    background: no-repeat botton / cover url('images/Computerimage.jpg');
+    background: no-repeat bottom / cover url('images/Computerimage.jpg');
     height: 250px;
     border-radius: 20px;
 }
@@ -33,11 +33,11 @@ main {
 }
 
 .details section p {
-    margin: 20px;
+    margin: 25px;
 }
 
 .details section h2 {
-    margin: 20px;
+    margin: 25px;
 }
 
 .details section.with-code {
@@ -54,11 +54,10 @@ div.code-html {
 
 img {
     width: 100%;
-
 }
 
 h1 {
-    background-image: url('Images/Logo.png');
+    background-image: url('images/Logo.png');
     background-repeat: no-repeat;
     background-size: 40px;
     background-position: center left;
